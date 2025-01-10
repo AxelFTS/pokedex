@@ -28,4 +28,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 =======
 # pokedex
->>>>>>> bda249effd50ed9cbd23612dd544c5fbe37bdfa8
+You can find this project on : https://angular-pokedex-app-32583.web.app
